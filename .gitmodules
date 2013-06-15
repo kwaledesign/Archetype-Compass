@@ -1,3 +1,6 @@
 [submodule "templates/project"]
 	path = templates/project
 	url = git://github.com/kwaledesign/Archetype.git
+[submodule "stylesheets"]
+	path = stylesheets
+	url = git://github.com/kwaledesign/Archetype-Utilities.git
