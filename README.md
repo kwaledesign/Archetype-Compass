@@ -9,15 +9,9 @@ can be installed locally.
 
 ### Dependencies 
 Archetype is built with Sass on top of Compass. Additionally, it uses
-[Modular-Scale](https://github.com/Team-Sass/modular-scale) and [Breakpoint](https://github.com/Team-Sass/breakpoint). 
+[Modular-Scale](https://github.com/Team-Sass/modular-scale), [Breakpoint](https://github.com/Team-Sass/breakpoint), and [Colorkit](https://github.com/kwaledesign/Colorkit).
 ```
-$ gem install modular-scale breakpoint
-```
-
-Archetype also uses [Colorkit](https://github.com/kwaledesign/Colorkit). Currently, Colorkit must also be installed locally, do so using:
-```
-$ git clone https://github.com/kwaledesign/Colorkit.git
-$ gem install colorkit
+$ gem install modular-scale breakpoint colorkit
 ```
 
 Install Archetype:
