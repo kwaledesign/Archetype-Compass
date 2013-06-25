@@ -1,13 +1,13 @@
 Gem::Specification.new do |s|
   # Release Specific Information
-  s.version = "0.1.beta.6"
-  s.date = "2013-06-06"
+  s.version = "0.1.beta.7"
+  s.date = "2013-06-25"
 
   # Gem Details
   s.name = "archetype"
   s.authors = ["Sam Ashley"]
   s.summary = %q{A flexible object oriented Sass architecture for responsive builds}
-  s.description = %q{A Compass plugin and front-end toolkit designed with the principles of OOCSS and SMACSS for building responsive front-ends and Drupal themes.}
+  s.description = %q{A Compass plugin and front-end toolkit designed with the principles of OOCSS and SMACSS for building responsive front-ends.}
   s.email = "sam@kwaledesign.com"
   s.homepage = "http://wwww.kwaledesign.com"
 
