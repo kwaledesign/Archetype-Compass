@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   # Release Specific Information
-  s.version = "0.1.beta.7"
+  s.version = "0.1.beta.8"
   s.date = "2013-06-25"
 
   # Gem Details
@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   # Gem Bookkeeping
   s.rubygems_version = %q{1.8.25}
   s.add_dependency("compass", [">= 0.13.alpha.2"])
-  s.add_dependency("susy", [">= 1.0.5"])
+  s.add_dependency("colorkit", [">= 0.4.5"])
   s.add_dependency("modular-scale", [">= 1.0.6"])
   s.add_dependency("breakpoint", [">= 2.0.5"])
 end
