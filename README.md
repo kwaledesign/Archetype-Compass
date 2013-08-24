@@ -3,7 +3,7 @@ Archetype
 [Archetype](https://github.com/kwaledesign/Archetype) is a front-end toolkit designed with the principles of [OOCSS](https://github.com/stubbornella/oocss) and [SMACSS](http://smacss.com) for building responsive, mobile-first front-ends using a specific [coding standardard](https://github.com/kwaledesign/Coding-Standards).
 
 ## Depreciated
-Archetype-Compass is no longer supported.  Project scaffolding for Archetype is now handled using [Yeoman](www.yeoman.io) using the [Archetype-Generator](https://github.com/kwaledesign/generator-archetype).  Archetype can also be installed using Git.
+Archetype-Compass is no longer supported.  Project scaffolding for Archetype is now handled with [Yeoman](www.yeoman.io) via the [Archetype-Generator](https://github.com/kwaledesign/generator-archetype).  Archetype can also be installed using Git. See the [Archetype](https://github.com/kwaledesign/Archetype) project for further details.
 
 <hr>
 
